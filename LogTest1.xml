@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="MacRoman" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2010-12-02T10:30:18</date>
+  <millis>1291311018897</millis>
+  <sequence>0</sequence>
+  <logger>LogTest1.logging</logger>
+  <level>INFO</level>
+  <class>com.stgutah.playground.logging.LogTest1</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>doing stuff</message>
+</record>
+<record>
+  <date>2010-12-02T10:30:18</date>
+  <millis>1291311018996</millis>
+  <sequence>1</sequence>
+  <logger>LogTest1.logging</logger>
+  <level>WARNING</level>
+  <class>com.stgutah.playground.logging.LogTest1</class>
+  <method>main</method>
+  <thread>10</thread>
+  <message>something may be wrong</message>
+</record>
+</log>

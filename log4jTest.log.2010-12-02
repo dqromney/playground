@@ -1,0 +1,16 @@
+2010-12-02 14:50:52,239 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Enter
+2010-12-02 14:50:52,241 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Exit
+2010-12-02 14:50:52,241 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Enter
+2010-12-02 14:50:52,241 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Exit
+2010-12-02 14:51:42,307 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Enter
+2010-12-02 14:51:42,309 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Exit
+2010-12-02 14:51:42,309 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Enter
+2010-12-02 14:51:42,309 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Exit
+2010-12-02 14:52:19,857 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Enter
+2010-12-02 14:52:19,859 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Exit
+2010-12-02 14:52:19,859 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Enter
+2010-12-02 14:52:19,860 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Exit
+2010-12-02 14:53:58,693 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Enter
+2010-12-02 14:53:58,695 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Exit
+2010-12-02 14:53:58,695 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Enter
+2010-12-02 14:53:58,696 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Exit

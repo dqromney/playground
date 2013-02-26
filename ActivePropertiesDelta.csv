@@ -1,0 +1,4 @@
+"LoanNumber","PreservationPropertyID","TMPropertyID","PreservationStatus","TenantManagedMStatus","PreservationAddress1","PreservationAddress2","PreservationCity","PreservationState","PreservationZipCode","TenantManagedAddress1","TenantManagedAddress2","TenantManagedCity","TenantManagedState","TenanatManagedZipCode"
+"1005581705","503431","","Active","Active","38 GROVE AVENUE","","STATEN ISLAND","NY","10302-0000","","","","",""
+"1004344873","508824","","Active","Active","7321 BRIARGATE DR","","CANTON","MI","48187-0000","","","","",""
+"1005813595","457937","","Active","Active","8 JOY AVE","","BRISBANE","CA","94005-0000","","","","",""

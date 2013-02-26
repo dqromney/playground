@@ -1,0 +1,20 @@
+Serve your files (http://balusc.blogspot.com/2007/07/fileservlet.html)
+
+Update: there's a newer article out for more effective file serving. You may find it useful:
+FileServlet supporting resume and caching and GZIP (http://balusc.blogspot.com/2009/02/fileservlet-supporting-resume-and.html).
+
+If you have stored files in a path outside of the web container or in a database, then the client cannot
+access the files directly by a relative URI. A good practice is to create a Servlet which loads the file
+from a path outside of the web container or from a database and then streams the file to the
+HttpServletResponse. The client should get a 'Save as' popup dialogue, thanks to the Content-disposition
+header being set to attachment. You can pass the file name or the file ID as a part of the request URI.
+You can also consider to pass it as a request parameter, but that would cause problems with getting the
+filename right during saving in certain web browsers (Internet Explorer and so on).
+
+Important note:
+This servlet example does not take the requested file as request parameter, but just as 
+part of the absolute URL, because a certain widely used browser developed by a team in Redmond would take
+the last part of the servlet URL path as filename during the 'Save As' dialogue instead of the in the
+headers supplied filename. It would otherwise also not be able to detect the correct content type and
+the associated application (yes, it ignores the Content-Type  header as well!!). Using the filename as
+part of the absolute URL (and thus not as request parameter) will fix this utterly stupid behaviour.

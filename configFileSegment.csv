@@ -1,0 +1,8 @@
+NAME,TOKEN,ID,DESCRIPTION,OPTIONAL,MAX_LENGTH,VARIABLE_LENGTH,ALLOWED_FREQUENCY_PER_FILE,ALLOWED_FREQUENCY_PER_RECORD_SET,IS_HEADER,IS_FOOTER,START_OF_RECORD
+'Header','HDR','001','MSP Header (only one per file)','false','150','false','ONCE','ZERO','true','false','false'
+'Detail','INS','03','Inspection Detail Record 03 (once per record)','false','150','false','UNLIMITED','ONCE','false','false','false'
+'Detail','INS','02','Inspection Detail Record 02 (once per record)','false','150','false','UNLIMITED','ONCE','false','false','false'
+'Detail','INS','05','Inspection Detail Record 05 (once per record)','false','150','false','UNLIMITED','ONCE','false','false','false'
+'Detail','INS','04','Inspection Detail Record 04 (once per record)','false','150','false','UNLIMITED','ONCE','false','false','false'
+'Detail','INS','01','Inspection Detail Record 01 (once per record)','false','150','false','UNLIMITED','ONCE','false','false','true'
+'Trailer','TRL','001','MSP Trailer (once per file)','false','150','false','ONCE','ZERO','false','true','false'

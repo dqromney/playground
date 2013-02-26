@@ -1,0 +1,66 @@
+2010-12-03 14:42:58,173 [main] DEBUG com.stgutah.playground.log4j.TestLogging - Start of main()
+2010-12-03 14:42:58,174 [main] INFO  com.stgutah.playground.log4j.TestLogging - Just testing a log message with priority set to INFO
+2010-12-03 14:42:58,174 [main] WARN  com.stgutah.playground.log4j.TestLogging - Just testing a log message with priority set to WARN
+2010-12-03 14:42:58,174 [main] ERROR com.stgutah.playground.log4j.TestLogging - Just testing a log message with priority set to ERROR
+2010-12-03 14:42:58,174 [main] FATAL com.stgutah.playground.log4j.TestLogging - Just testing a log message with priority set to FATAL
+2010-12-03 14:42:58,175 [main] DEBUG com.stgutah.playground.log4j.TestLogging - Calling init()
+2010-12-03 14:42:58,175 [main] INFO  com.stgutah.playground.log4j.TestLogging - ***System Environment As Seen By Java***
+2010-12-03 14:42:58,175 [main] DEBUG com.stgutah.playground.log4j.TestLogging - ***Format: PROPERTY = VALUE***
+2010-12-03 14:42:58,175 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.runtime.name = Java(TM) SE Runtime Environment
+2010-12-03 14:42:58,175 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.boot.library.path = /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Libraries
+2010-12-03 14:42:58,175 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.version = 17.1-b03-307
+2010-12-03 14:42:58,175 [main] INFO  com.stgutah.playground.log4j.TestLogging - awt.nativeDoubleBuffering = true
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - gopherProxySet = false
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - mrj.build = 10M3261
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.vendor = Apple Inc.
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vendor.url = http://www.apple.com/
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - path.separator = :
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+2010-12-03 14:42:58,176 [main] INFO  com.stgutah.playground.log4j.TestLogging - file.encoding.pkg = sun.io
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - user.country = US
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.java.launcher = SUN_STANDARD
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.os.patch.level = unknown
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.specification.name = Java Virtual Machine Specification
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - user.dir = /Users/dqromney/stgdev/playground
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.runtime.version = 1.6.0_22-b04-307-10M3261
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.awt.graphicsenv = apple.awt.CGraphicsEnvironment
+2010-12-03 14:42:58,177 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.endorsed.dirs = /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/endorsed
+2010-12-03 14:42:58,178 [main] INFO  com.stgutah.playground.log4j.TestLogging - os.arch = x86_64
+2010-12-03 14:42:58,178 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.io.tmpdir = /var/folders/LM/LMZUPKprHziBQOI3A1wbZ++++TI/-Tmp-/
+2010-12-03 14:42:58,178 [main] INFO  com.stgutah.playground.log4j.TestLogging - line.separator = 
+
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.specification.vendor = Sun Microsystems Inc.
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - os.name = Mac OS X
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.jnu.encoding = MacRoman
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.library.path = /Applications/IntelliJ IDEA 9.0.1.app/Contents/Resources/Java:/System/Library/PrivateFrameworks/JavaApplicationLauncher.framework/Resources:.:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.specification.name = Java Platform API Specification
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.class.version = 50.0
+2010-12-03 14:42:58,179 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.management.compiler = HotSpot 64-Bit Server Compiler
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - os.version = 10.6.5
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - http.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - user.home = /Users/dqromney
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - user.timezone = America/Denver
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.awt.printerjob = apple.awt.CPrinterJob
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.specification.version = 1.6
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - file.encoding = MacRoman
+2010-12-03 14:42:58,180 [main] INFO  com.stgutah.playground.log4j.TestLogging - user.name = dqromney
+2010-12-03 14:42:58,181 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.class.path = /System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/deploy.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/dt.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/management-agent.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/sa-jdi.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/alt-rt.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/charsets.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/dt.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/jce.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/jconsole.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/jsse.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/laf.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/management-agent.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/../Classes/ui.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/apple_provider.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/dnsns.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/localedata.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/sunjce_provider.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/ext/sunpkcs11.jar:/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Home/lib/javaws.jar:/Users/dqromney/stgdev/playground/out/production/playground:/Users/dqromney/.m2/repository/commons-lang/commons-lang/2.4/commons-lang-2.4.jar:/Users/dqromney/tools/mysql-connector-java-5.1.12/mysql-connector-java-5.1.12-bin.jar:/Applications/IntelliJ IDEA 9.0.1.app/lib/junit.jar:/Users/dqromney/tools/mongodb-osx-i386-1.4.3/mongo-1.4.jar:/Users/dqromney/tools/poi-3.6/poi-3.6-20091214.jar:/Users/dqromney/tools/opencsv-2.2/deploy/opencsv-2.2.jar:/Users/dqromney/tools/SuperCSV/SuperCSV-1.52.jar:/Users/dqromney/tools/SuperCSV/spiffy-with_source-all-0.05.jar:/Users/dqromney/.m2/repository/com/jcraft/jsch/0.1.43/jsch-0.1.43.jar:/Users/dqromney/tools/zehon:/Users/dqromney/tools/zehon/bcprov-jdk15-1.43.jar:/Users/dqromney/tools/zehon/commons-codec-1.3.jar:/Users/dqromney/tools/zehon/commons-httpclient-3.1.jar:/Users/dqromney/tools/zehon/commons-logging-1.0.4.jar:/Users/dqromney/tools/zehon/commons-net-2.0.jar:/Users/dqromney/tools/zehon/commons-vfs-2.0.jar:/Users/dqromney/tools/zehon/jsch-0.1.41.jar:/Users/dqromney/tools/zehon/zehon_file_transfer-1.1.6.jar:/Users/dqromney/.m2/repository/log4j/log4j/1.2.12/log4j-1.2.12.jar:/Applications/IntelliJ IDEA 9.0.1.app/lib/idea_rt.jar
+2010-12-03 14:42:58,182 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.specification.version = 1.0
+2010-12-03 14:42:58,182 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.arch.data.model = 64
+2010-12-03 14:42:58,182 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.home = /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home
+2010-12-03 14:42:58,182 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.specification.vendor = Sun Microsystems Inc.
+2010-12-03 14:42:58,182 [main] INFO  com.stgutah.playground.log4j.TestLogging - user.language = en
+2010-12-03 14:42:58,183 [main] INFO  com.stgutah.playground.log4j.TestLogging - awt.toolkit = apple.awt.CToolkit
+2010-12-03 14:42:58,183 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vm.info = mixed mode
+2010-12-03 14:42:58,183 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.version = 1.6.0_22
+2010-12-03 14:42:58,183 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.ext.dirs = /Library/Java/Extensions:/System/Library/Java/Extensions:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/lib/ext
+2010-12-03 14:42:58,183 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.boot.class.path = /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsfd.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar:/System/Library/Frameworks/JavaVM.framework/Frameworks/JavaRuntimeSupport.framework/Resources/Java/JavaRuntimeSupport.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/ui.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/laf.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/sunrsasign.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jsse.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/jce.jar:/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/charsets.jar
+2010-12-03 14:42:58,184 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vendor = Apple Inc.
+2010-12-03 14:42:58,184 [main] INFO  com.stgutah.playground.log4j.TestLogging - file.separator = /
+2010-12-03 14:42:58,184 [main] INFO  com.stgutah.playground.log4j.TestLogging - java.vendor.url.bug = http://bugreport.apple.com/
+2010-12-03 14:42:58,184 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.cpu.endian = little
+2010-12-03 14:42:58,184 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.io.unicode.encoding = UnicodeLittle
+2010-12-03 14:42:58,185 [main] INFO  com.stgutah.playground.log4j.TestLogging - mrj.version = 1060.1.6.0_22-307
+2010-12-03 14:42:58,185 [main] INFO  com.stgutah.playground.log4j.TestLogging - socksNonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2010-12-03 14:42:58,185 [main] INFO  com.stgutah.playground.log4j.TestLogging - ftp.nonProxyHosts = local|*.local|169.254/16|*.169.254/16
+2010-12-03 14:42:58,185 [main] INFO  com.stgutah.playground.log4j.TestLogging - sun.cpu.isalist = 

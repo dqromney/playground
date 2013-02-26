@@ -1,0 +1,2 @@
+"asset_number","street_1","street_2","city","state","zip","account_servicer","client_reference","property_type_id","property.contact_name","property.contact.phone_1","service_area.name","service_area.lock_box_code","service_area.key_code","service_area.access_code","services"
+"12345","Street 1","","Salt Lake City","UT","84115","Jones and Company","123456789","10","Mark Jones","","service_area.name","service_area.lock_box_code","service_area.key_code","service_area.access_code","services"

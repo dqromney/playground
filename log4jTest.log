@@ -1,0 +1,4 @@
+2010-12-03 15:20:47,253 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Enter
+2010-12-03 15:20:47,254 [main] INFO  com.stgutah.playground.log4j.Main - init() :: Exit
+2010-12-03 15:20:47,254 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Enter
+2010-12-03 15:20:47,254 [main] INFO  com.stgutah.playground.log4j.Main - execute() :: Exit

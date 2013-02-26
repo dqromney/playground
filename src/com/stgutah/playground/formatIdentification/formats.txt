@@ -1,0 +1,95 @@
+# File format information for the FormatIdentification Java class
+# See <http://www.geocities.com/marcoschmidt.geo/java-file-format-identification.html>.
+# Send updates to <http://www.geocities.com/marcoschmidt.geo/contact.html>.
+#
+# Description of line structure (elements separated by semicolons):
+# (1) Format group
+# (2) Short format name
+# (3) Long format name
+# (4) MIME types (comma-separated list)
+# (5) File extensions (comma-separated list)
+# (6) Offset of magic byte sequence in the file
+# (7) Magic byte sequence; either a hexadecimal String or
+#     a literal String enclosed by "quotes", character set is ISO-8859-1.
+#     No " or ; character can be inside of a literal string, use a
+#     hexadecimal string if you need either character.
+# (8) Minimum valid file size for this format
+
+archive;BZ2;Bzip2 (bz2);application/x-bzip2;bz2,tbz2;0;425a683931;20;
+archive;GZ;GNU Zip (gz);application/x-gzip;gz,tgz;0;1f8b;20;
+archive;RAR;Rar;application/x-rar-compressed;rar;0;526172211a;20;
+archive;ZIP;PKWare Zip (ZIP);application/zip;zip;0;"PK";20;
+audio;MIDI;Midi (MID);audio/unknown;mid,midi;0;"MThd";20;
+audio;MP3;MPEG audio (mp3);audio/mpeg;mp3,mp2;0;"ID3";20;
+doc;DOC;Microsoft Word File Format (DOC);application/msword;doc;512;eca5;1000;
+doc;DOC;Microsoft Word File Format (DOC);application/msword;doc;512;dca5;1000;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<HEAD";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<head";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<TITLE";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<title";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<!doctype HTML";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<!DOCTYPE HTML";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<!--";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<html";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<HTML";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<h1>";20;
+doc;HTML;Hypertext Markup Language (HTML);text/html;htm,html;0;"<H1>";20;
+doc;XML;Extensible Markup Language (XML);text/xml;xml;0;"<?xml";10;
+doc;PDF;Portable Document Format (PDF);application/pdf;pdf;0;"%PDF-";20;
+doc;PS;PostScript (PS);application/postscript;ps;0;"%!";20;
+# doc;RTF;Rich Text Format (RTF);text/rtf;rtf;0;"{\rtf";20;
+doc;XLS;Microsoft Excel Format;application/vnd.ms-excel;xls,xlt;512;fdff;1000
+exec;CLASS;Java Class File;application/octet-stream;class;0;cafebabe;20
+exec;ELF;ELF Binary;application/octet-stream;;0;7f454c46010101000000000000000000;40
+exec;EXE;DOS/Windows executable (EXE);application/x-dosexec;exe;0;"MZ";20;
+image;BMP;Windows Bitmap (BMP);image/bmp;bmp;0;"BM";40;
+image;GIF;Graphics Interchange Format (GIF);image/gif;gif;0;"GIF8";40;
+image;JPEG;Joint Photographic Experts Group (JPG);image/jpeg;jpg;0;ffd8ff;40;
+image;PBM;Portable Bitmap (PBM);image/x-portable-bitmap;pgm;0;"P1";40;
+image;PBM;Portable Bitmap (PBM);image/x-portable-bitmap;pgm;0;"P4";40;
+image;PGM;Portable Graymap (PGM);image/x-portable-greymap;pgm;0;"P2";40;
+image;PGM;Portable Graymap (PGM);image/x-portable-greymap;pgm;0;"P5";40;
+image;PNG;Portable Network Graphics (PNG);image/png;png;0;89504e470d0a1a;40;
+image;PPM;Portable Pixmap (PPM);image/x-portable-pixmap;ppm;0;"P3";40;
+image;PPM;Portable Pixmap (PPM);image/x-portable-pixmap;ppm;0;"P6";40;
+image;TIFF;Tag Image File Format (TIFF);image/tiff;tif;0;4d4d002a;40;
+image;TIFF;Tag Image File Format (TIFF);image/tiff;tif;0;49492a00;40;
+video;AVI;Audio Video Interleave (AVI);video/x-msvideo;avi;8;41564920;20;
+video;MOV;Quicktime video (MOV);video/quicktime;mov;4;"moov";20;
+video;MPEG;MPEG video (MPG);video/mpeg;mpg,mpeg;0;000001b3;20;
+video;MPEG;MPEG video (MPG);video/mpeg;mpg,mpeg;0;000001ba;20;
+
+# ------------------------------------
+# File extensions used for MMS/Records
+# ------------------------------------
+#    BMP("image/bmp, image/x-bmp, image/x-bitmap, image/x-xbitmap, image/x-win-bitmap, image/x-windows-bmp, image/ms-bmp, image/x-ms-bmp, application/bmp, application/x-bmp, application/x-win-bitmap, application/preview", new int[][] {{0x42,0x4D}}),
+#    GIF("image/gif, image/x-xbitmap, image/gi_", new int[][] {{0x47,0x49,0x46,0x38},{0x4,0x49,0x46,0x38,0x37,0x61},{0x47,0x49,0x46,0x38,0x39,0x61}}),
+#    JPG("image/jpeg, image/jpg, image/jp_, application/jpg, application/x-jpg, image/pjpeg, image/pipeg, image/vnd.swiftview-jpeg, image/x-xbitmap", new int[][] {{0xFF,0xD8,0xFF}}),
+#    JPEG("image/jpeg, image/jpg, image/jpe_, image/pjpeg, image/vnd.swiftview-jpeg", new int[][] {{0xFF,0xD8,0xFF}}),
+#    PNG("image/png, application/png, application/x-png", new int[][] {{0x89,0x50,0x4E,0x47,0x0D,0x0A,0x1A,0x0A,0x00,0x00,0x00,0x0D,0x49,0x48,0x44,0x52}}),
+#    TIF("image/tif, image/x-tif, image/tiff, image/x-tiff, application/tif, application/x-tif, application/tiff, application/x-tiff", new int[][] {{0x49,0x49,0x2A,0x00},{0x4D,0x4D,0x00,0x2A},{0x49,0x49,0x2A,0x00}}),
+#    TIFF("image/tiff", new int[][] {{0x49,0x49,0x2A,0x00},{0x4D,0x4D,0x00,0x2A},{0x49,0x49,0x2A,0x00}}),
+
+#    PDF("application/pdf, application/x-pdf, application/acrobat, applications/vnd.pdf, text/pdf, text/x-pdf", new int[][] {{0x25,0x50,0x44,0x46,0x2D,0x31,0x2E}}),
+#    TXT("text/plain, application/txt, browser/internal, text/anytext, widetext/plain, widetext/paragraph", new int[][] {/* None */}),
+
+#    RTF("application/rtf,application/x-rtf,text/rtf,text/richtext,application/msword,application/doc,application/x-soffice", new int[][] {{0x7B,0x5C,0x72,0x74,0x66}}),
+doc;RTF;Rich Text Format File (RTF);application/rtf,application/x-rtf,text/rtf,text/richtext,application/msword,application/doc,application/x-soffice;rtf;0;7b5c727466;20
+
+#    DOC("application/msword,application/doc,appl/text,application/vnd.msword,application/vnd.ms-word,application/winword,application/word,application/x-msw6,application/x-msword,zz-application/zz-winassoc-doc", new int[][] {{0xD0,0xCF,0x11,0xE0,0xA1,0xB1,0x1A,0xE1,0x00}}),
+doc;DOC;Word Document (DOC);application/msword,application/doc,appl/text,application/vnd.msword,application/vnd.ms-word,application/winword,application/word,application/x-msw6,application/x-msword,zz-application/zz-winassoc-doc;doc;0;d0cf11e0a1b11ae100;20
+
+#    XLS("application/msexcel, application/x-msexcel, application/x-ms-excel, application/vnd.ms-excel, application/x-excel, application/x-dos_ms_excel, application/xls, application/x-xls, zz-application/zz-winassoc-xls", new int[][] {{0xD0,0xCF,0x11,0xE0,0xA1,0xB1,0x1A,0xE1,0x00}}),
+doc;XLS;Excel Worksheet (XLS);application/msexcel,application/x-msexcel,application/x-ms-excel,application/vnd.ms-excel,application/x-excel,application/x-dos_ms_excel,application/xls,application/x-xls,zz-application/zz-winassoc-xls;xls;0;d0cf11e0a1b11ae100;40
+
+#    XLSX("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", new int[][] {{0x50,0x4B,0x03,0x04}}),
+doc;XLSX;Excel Microsoft Office Open XML Format Spreadsheet (XLSX);application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;xlsx;0;504b0304;20
+
+#    DOCX("application/vnd.openxmlformats-officedocument.wordprocessingml.document", new int[][] {{0x50,0x4B,0x03,0x04}}),
+doc;DOCX;Word Microsoft Office Open XML Format Document (DOCX);application/vnd.openxmlformats-officedocument.wordprocessingml.document;docx;0;504b0304;20
+
+#    SXW("application/vnd.sun.xml.writer", new int[][] {{0x50,0x4B,0x03,0x04,0x14,0x00}}),
+doc;SXW;OpenOffice.org Text Document (SXW);application/vnd.sun.xml.writer;sxw;0;504b03041400;20
+
+#    ODT("application/vnd.oasis.opendocument.text, application/x-vnd.oasis.opendocument.text", new int[][] {{0x50,0x4B,0x03,0x04}});
+doc;ODT;OpenOffice/StarOffice OpenDocument (Ver 2) Text Document (ODT);application/vnd.oasis.opendocument.text,application/x-vnd.oasis.opendocument.text;odt;0;504b0304;20

@@ -1,0 +1,82 @@
+HDR00134-1856603   26-4568855   668-00-0000  211210                                                                                                   
+INS010013000490049     EVERETTE L FISH                16005N 32ND ST 131G                                        PHOENIX              AZ850323438     
+INS023000490049     JACQUELINE FISH               16005 N 32ND ST 131G                                                                                
+INS033000490049     PHOENIX              AZ8503234386239340902H0000000000O           0511104              48-1273715 0000543026                       
+INS043000490049     00000011699090000000100000000023994120000000048988    AD06      BL1            A1615O BANK OF NEW YORK                            
+INS053000490049                                                                                        029                                            
+INS010013000490783     MELINDA MARIE BLACK            22240  A SALINAS RD                                        HINKLEY              CA913470000     
+INS023000490783                                   22040 SALINAS RD                                                                                    
+INS033000490783     HINKLEY              CA9234700007602532245H7602532245O           0511104              48-1273715 0000543086                       
+INS043000490783     00000050344390000000148200000053194120000000107870    AD06      BL1            A1615O BANK OF NEW YORK                            
+INS053000490783                                                                                        029                                            
+INS010013000493522     DANNY MATHISON                  2494W MAIN ST SP 245                                      BARSTOW              CA923110000     
+INS023000493522     CHERYL MATHISON               2494 W MAIN ST SP 245                                                                               
+INS033000493522     BARSTOW              CA9231100007602567052H7605777050O           0511104              48-1273715 0000543313                       
+INS043000493522     00000016990610000000100000000034422120000000069844    AD06      BL1            A1615O BANK OF NEW YORK                            
+INS053000493522                                                                                        029                                            
+INS010013000494371     DAVID WEST                            LAKEROAD U-98                                       CAMDENTON            MO650200000     
+INS023000494371                                   807 DOCKRIDGEWAY DR                                                                                 
+INS033000494371     MACKS CREEK          MO6578600001111111111H0000000000O           0511104              48-1273715 0000543387                       
+INS043000494371     00000029587080000000100000000033228120000000067456    AD07      BL1            A1615O BANK OF NEW YORK                            
+INS053000494371                                                                                        029                                            
+INS010013000495857     MANUEL TRUJILLO                20305  5TH ST                                              ACEQUIA              ID833500000     
+INS023000495857     HELEN TRUJILLO                20305 5TH ST                                                                                        
+INS033000495857     ACEQUIA              ID8335000002084311337H2086787544O           0511104              48-1273715 0000543516                       
+INS043000495857     00000032092150000000100000000048835120000000098670    AD06      BL1            A1615O BANK OF NEW YORK                            
+INS053000495857                                                                                        019                                            
+INS010013000506364     EARL D FLANIGAN                 3200W SHADOW MOUNTAIN ST                                  PAHRUMP              NV890410000     
+INS023000506364                                   3200 W SHADOW MOUNTAIN ST                                                                           
+INS033000506364     PAHRUMP              NV8906000007757512738H7752096680O           0511104              48-1273715 0000544372                       
+INS043000506364     00000085888570000000100000000073204120000000147408    AD07      BL1            A1615O BANK OF NEW YORK                            
+INS053000506364                                                                                        019                                            
+INS010013000511638     CLARK MOORE                     4562  CHAPPELOW RIDGE RD                                  WEST HARRISON        IN470600000     
+INS023000511638     ROSEMARY MOORE                4562 CHAPPELOW RIDGE RD                                                                             
+INS033000511638     WEST HARRISON        IN4706000008126375499H0000000000O           0511104              95-1186705 0000546075                       
+INS043000511638     00000039853460000000100000000076403120000000153806    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000511638                                                                                        019                                            
+INS010013000512180     CHARLES M VARNEY                  15  LINDENSHIRE AVE                                     EXETER               NH038330000     
+INS023000512180     REGINA A VARNEY               15 LINDENSHIRE AVE                                                                                  
+INS033000512180     EXETER               NH0383300006037722272H0000000000O           0511104              95-1186705 0000546116                       
+INS043000512180     00000025759960000000100000000045660120000000092320    AD07      BL1            A1618O BANK OF NEW YORK                            
+INS053000512180                                                                                        029                                            
+INS010013000515167     DOUGLAS D DEAN                  6460  CONVOY CT SP 234                                    SAN DIEGO            CA921170000     
+INS023000515167     BARBARA F DEAN                6460 CONVOY CT SP 234                                                                               
+INS033000515167     SAN DIEGO            CA9211700006192711354H0000000000O           0511104              95-1186705 0000546364                       
+INS043000515167     00000030418170000000100000000031325120000000063650    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000515167                                                                                        029                                            
+INS010013000620488     VICKI E CASTLE                   440  OAKLAWN DR                                          FAIRBORN             OH453240000     
+INS023000620488                                   440 OAKLAWN DR                                                                                      
+INS033000620488     FAIRBORN             OH4532400009378787725H9377541059O           0411104              95-1186705 0000552499                       
+INS043000620488     00000007387420000000060000000035469120000000071538    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000620488                                                                                        029                                            
+INS010013000623979     JOHN V BRIGGS                         RR 2 BOX 160                                        SPENCER              IN474600000     
+INS023000623979     ELAINE A BRIGGS               642 W KEELER RD                                                                                     
+INS033000623979     SPENCER              IN4746096298128294065H8128294891O           0511104              95-1186705 0000552760                       
+INS043000623979     00000034105790000000060000000084743120000000170086    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000623979                                                                                        029                                            
+INS010013000624282     BRENDA S O'DONNELL                    PO BOX 88                                           REED SPRINGS         MO657370000     
+INS023000624282                                   PO BOX 88                                                                                           
+INS033000624282     REED SPRINGS         MO6573700004172728837H4175465942O           0511104              95-1186705 0000552780                       
+INS043000624282     00000026188370000000060000000049255120000000099110    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000624282                                                                                        029                                            
+INS010013000626535     WALT SLATER                    14300N SLATER RD                                           MARSHALL             IL624410000     
+INS023000626535     CAROL SLATER                  14300 N SLATER RD                                                                                   
+INS033000626535     MARSHALL             IL6244100002178265492H8122346688O           0411104              95-1186705 0000552936                       
+INS043000626535     00000019657410000000060000000039710120000000080020    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000626535                                                                                        029                                            
+INS010013000629513     KENNETH R PAULSON               4396  NEVADA DR E                                         COLUMBUS             OH432070000     
+INS023000629513     EMILY I PAULSON               4396 NEVADA DR E                                                                                    
+INS033000629513     COLUMBUS             OH4320700006144920551H0000000000O           0611104              95-1186705 0000553160                       
+INS043000629513     00000001932960000000060000000033715120000000068030    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000629513                                                                                        029                                            
+INS010013000635502     GEORGE H PAUGH                  1981  BLUFFSTONE CT                                       GROVE CITY           OH431230000     
+INS023000635502     EVA M PAUGH                   1981 BLUFFSTONE CT                                                                                  
+INS033000635502     GROVE CITY           OH4312300006148715773H6144910701O           0311104              95-1186705 0000553607                       
+INS043000635502     00000015338240000000060000000030088120000000060776    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000635502                                                                                        029                                            
+INS010013000637540     PAULA V ROTH                     120S CRISMON RD                                          MESA                 AZ852080000     
+INS023000637540                                   120 S CRISMON RD                                                                                    
+INS033000637540     MESA                 AZ8520800004803571430H0010010001O           0511104              95-1186705 0000553763                       
+INS043000637540     00000013705160000000060000000027154120000000054908    AD06      BL1            A1618O BANK OF NEW YORK                            
+INS053000637540                                                                                        019                                            
+TRL00126-4568855   000000000016000000000000000000000000000000000000000000000000000000000000016000000016                                               

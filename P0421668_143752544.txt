@@ -1,0 +1,467 @@
+HDR00174-2860973   26-4568855   668-00-0000  070411                                                                                                   
+INS010011001487329     CATHERINE R NICHOLS           212   N 25TH ST                                             WILMINGTON           NC284050000     
+INS021001487329                                   ROUTE 2 1146 MASSEY FM RD                                                                           
+INS031001487329     KNIGHTDALE           NC2754584580000000000H9197412346O           0102114              52-0883107 1677475233                       
+INS041001487329     00000096241530000000275700000087086120000000264015    AD07      BL1            A                                                  
+INS051001487329                                                                                        010                                            
+INS010011002113221     DONA DEANE                    32      THOMAS RD                                           EAST BRUNSWICK       NJ088160000     
+INS021002113221                                   32 THOMAS ROAD                                                                                      
+INS031002113221     EAST BRUNSWICK       NJ0881600007326131607H1111111111O           0101114              52-0883107 1694458666                       
+INS041002113221     00000174318010000001252000000226316120000000917784    AD07      BL1            A                                                  
+INS051002113221                                                                                        010                                            
+INS010011002598397     MARC A HOBBS                  1188    AVENIDA NARANJA                                     RAMONA               CA920650000     
+INS021002598397     TERESA L HOBBS                1188 AVENIDA NARANJA                                                                                
+INS031002598397     RAMONA               CA9206500007607881074H0000000000O           0112104              48-1273715 0001824568                       
+INS041002598397     00000581994010000007375600000475948120000002453496    AD07      BL1            A                                                  
+INS051002598397                                                                                        010                                            
+INS010011002699401     GABRIELLE WEILER              2630    FITZGERALD RD                                       SIMI VALLEY          CA930630000     
+INS021002699401     GEORGE WEILER                 4600 E INDUSTRIAL ST                                                                                
+INS031002699401     SIMI VALLEY          CA9306300000000000000H8055812971O           010211300490926624   52-0883107 1683755222                       
+INS041002699401     00000297761070000000823300000216834120000000658735    AD07      BL1            A                                                  
+INS051002699401                                                                                        010                                            
+INS010011003415765     EDWARD BOGACKI                5842    WOLF RD                                             WESTERN SPRINGS      IL605580000     
+INS021003415765     KATHY BOGACKI                 5842 WOLF ROAD                                                                                      
+INS031003415765     WESTERN SPRINGS      IL6055800007082463485H7082463485O           0102114              48-1273715 0002628620                       
+INS041003415765     00000432662820000002877000000287701120000000891873    AD07      BL1            A                                                  
+INS051003415765                                                                                        010                                            
+INS010011003885785     LINA S LUCARELLI              285     ROOSEVELT DR                                        DERBY                CT064180000     
+INS021003885785                                   36 CULLENS HILL ROAD                                                                                
+INS031003885785     DERBY                CT0641800002037357721H9999999999O           0101114              52-0883107 1694719071                       
+INS041003885785     00000104362010000004891600000197204120000000837732    AD07      BL1            A                                                  
+INS051003885785                                                                                        013                                            
+INS010011003972633     JAMES C SECCOMBE              14841   LOCLOMAN                                            ANCHORAGE            AK995160000     
+INS021003972633                                   14841 LOCLOMAN LANE                                                                                 
+INS031003972633     ANCHORAGE            AK9951600005555555555H5555555555O           0102114              52-0883107 1695077515                       
+INS041003972633     00000279175740000022570000000297555120000001118365    AD07      BL1            A                                                  
+INS051003972633                                                                                        010                                            
+INS010011004027775     DIANE C TETREAULT             68      OLD OAK TRL                                         COVENTRY             CT062380000     
+INS021004027775                                   PO BOX 72                                                                                           
+INS031004027775     COVENTRY             CT0623800728607422999H9999999999O           011210330432407561   48-1273715 0003353576                       
+INS041004027775     00000094981030000001855000000081415120000000425595    AE02      AL1            A                                                  
+INS051004027775     CHANGED TYPE P: TO AN A NO CONTACT INSPECTION                                      010                                            
+INS010011004876577     PHILIP MARCHESE                11179  SILVER RIDGE STREET                                 WELLINGTON           FL334670000     
+INS021004876577                                   11179 SILVER RIDGE STREET                                                                           
+INS031004876577     LAKE WORTH           FL3344900005617840552H1111111111O           0102094              48-1273715 0120401270                       
+INS041004876577     00000259280000000000631900000202542120000005475590LUSIAB01      EL1            A                                                  
+INS051004876577     ADDED U TO MAN CODE INCLUSION                                                      010                                            
+INS010011004979751     DOUGLES ALLEN INGLES JR       45950   VISTA DEL MAR                                       TEMECULA             CA925900000     
+INS021004979751     JERI LEE INGLES               PO BOX 892365                                                                                       
+INS031004979751     TEMECULA             CA9258900009516957282H9516998898O           0102114              48-1273715 0120538055                       
+INS041004979751     00000365007020000019035200000211161120000000823835    AD07      BL1            A                                                  
+INS051004979751                                                                                        010                                            
+INS010011005312861     LAM D VU                      1213  N MAIN ST                                             WEST HARTFORD        CT061170000     
+INS021005312861                                   1213 NORTH MAIN STREET                                                                              
+INS031005312861     WEST HARTFORD        CT0611700000000000000H0000000000O           0112104              52-0883107 1707281868                       
+INS041005312861     00000195678970000002310600000216146120000001103836    AD07      BL1            A                                                  
+INS051005312861                                                                                        010                                            
+INS010011005845399     MATHEW L PADILLA                7849  GADSBY COURT                                        ELK GROVE            CA957580000     
+INS021005845399                                   7849 GADSBY COURT                                                                                   
+INS031005845399     ELK GROVE            CA9575800009164702300H9164702300O           0106104              48-1273715 0121535543                       
+INS041005845399     00000361103390000010451600000197996120000002741672    AD07      BL1            A                                                  
+INS051005845399                                                                                        010                                            
+INS010011006087231     JILL M NOESKE                   3649  EAST LAKE DRIVE                                     LAND O LAKES         FL346390000     
+INS021006087231                                   3649 EAST LAKE DRIVE                                                                                
+INS031006087231     LAND O LAKES         FL3463900001111111111H8139497875O           0101114              48-1273715 0121676224                       
+INS041006087231     00000242362310000000000000000180929120000000286160    AD07      BL1            A                                                  
+INS051006087231                                                                                        010                                            
+INS010011006147423     KEVIN G GLADSON               813   S MEEK ST                                             MARISSA              IL622570000     
+INS021006147423                                   813 SOUTH MEEK STREET                                                                               
+INS031006147423     MARISSA              IL6225700009999999999H6183175599O           0112104              48-1273715 0121810191                       
+INS041006147423     00000058230560000001075900000061017120000000313382    AD07      BL1            A                                                  
+INS051006147423                                                                                        010                                            
+INS010011006268039     CHRISTOPHER A EMANUEL         10      UPMAN CT                                            CATONSVILLE          MD212280000     
+INS021006268039                                   5911 FOXHALL MANOR DR                                                                               
+INS031006268039     CATONSVILLE          MD2122800004104550309H4109470200O           0103104              48-1273715 0121707486                       
+INS041006268039     00000227914030000016035900000253881120000003423913    AD07      BL1            A                                                  
+INS051006268039                                                                                        010                                            
+INS010011006430761     LARA ADOURIAN                 5530  N OWENSMOUTH AVE        209                           WOODLAND HILLS       CA913670000     
+INS021006430761                                   5530 OWENSMOUTH AVE APT 209                                                                         
+INS031006430761     woodland hills       CA9136770821111111111H3105502213O           0111104              48-1273715 0121989423                       
+INS041006430761     00000253922930000000000000000114480120000000686880LUSIAB01      EL1            A                                                  
+INS051006430761     ADDED U TO MAN CODE INCLUSION                                                      016                                            
+INS010011006799595     DELVIN HOSTAS                 146     RED OAK LN                                          FLOWER MOUND         TX750280000     
+INS021006799595                                   146 Red Oak Lane                                                                                    
+INS031006799595     Flower Mound         TX7502800009723557336H1111111111O           0112104              48-1273715 0122432856                       
+INS041006799595     00000210418270000012805200000185305120000001052834    AD07      BL1            A                                                  
+INS051006799595                                                                                        010                                            
+INS010011006805947     STEVEN G MOORE                    34  HAMPSHIRE COURT                                     NEW EGYPT            NJ085330000     
+INS021006805947                                   1 MAIN STREET SUITE B                                                                               
+INS031006805947     NEW EGYPT            NJ0853300006097589788H1111111111O           0102114              48-1273715 0122508083                       
+INS041006805947     00000381708650000019973300000204984120000000814685    AD07      BL1            A                                                  
+INS051006805947                                                                                        010                                            
+INS010011006960999     DUSTIN D KERR                 425     HARVARD ST                                          BRUSH                CO807230000     
+INS021006960999                                   425 Harvard Street                                                                                  
+INS031006960999     Brush                CO8072300009708422866H9707689464O           0112104              48-1273715 0122214572                       
+INS041006960999     00000141396650000000000000000112119120000000560595    AD07      BL1            A                                                  
+INS051006960999                                                                                        010                                            
+INS010011007046095     SCOTT DONAHOE                 12425   137TH AVE                                           PUYALLUP             WA983740000N    
+INS021007046095                                   PO BOX 731122                                                                                       
+INS031007046095     PUYALLUP             WA9837300005555555555H0000000000O           0109104              48-1273715 0122621249                       
+INS041007046095     00000533239060000016146800000264360120000002414828    B650      FL1            A                                                  
+INS051007046095     VERIFY OCCUPANCY                                                                                                                  
+INS010011007586447     SANTOS REYES                   14634  STONE CROSSING CT                                   CENTREVILLE          VA201200000     
+INS021007586447     ALEXIS ALBERTO REYES          14634 Stone Crossing Ct                                                                             
+INS031007586447     Centreville          VA2012000005717238574H5717238574O           0108094              48-1273715 0123403652                       
+INS041007586447     00000291941740000019706400000188091120000004146975    AF05      FL1            A                                                  
+INS051007586447                                                                                        010                                            
+INS010011007763665     RALPH E BUSH JR               5       CARL PLACE                                          NEW WINDSOR          NY125770000     
+INS021007763665     JULIE BUSH                    P.O. BOX 310                                                                                        
+INS031007763665     SALISBURY MILLS      NY1257700001111111111H0000000000O           0102094              48-1273715 0123482813                       
+INS041007763665     00000108000000000002871000000193389120000004458717    AF05      FL1            A                                                  
+INS051007763665                                                                                        012                                            
+INS010011007818857     MARY E HARRIS                 3095    JOHNSON CREEK RD                                    MIDDLEPORT           NY141050000     
+INS021007818857                                   3095 Johnson Creek Road                                                                             
+INS031007818857     Middleport           NY1410500007163085768H0000000000O           0102114              48-1273715 123617862                        
+INS041007818857     00000098819800000001135200000109654120000000340314LUSIAB01      EL1            A                                                  
+INS051007818857     ADDED U TO MAN CODE INCLUSION                                                      010                                            
+INS010011007912189     OLIVER ORTEGA                 26611   BALERNA DR                                          SANTA CLARITA        CA913500000     
+INS021007912189                                   26611 BALERNA DRIVE                                                                                 
+INS031007912189     SAUGUS               CA9135000006612966281H6617142680O           0111084              48-1273715 0123762780                       
+INS041007912189     00000452000000000028769000000221292120000007107521    AF05      FL1            A                                                  
+INS051007912189                                                                                        010                                            
+INS010011007990821     RONALD L CLARK                   334  BALD PATE DRIVE                                     SUISUN CITY          CA945850000     
+INS021007990821                                   PO BOX 967                                                                                          
+INS031007990821     SUISUN CITY          CA9458500001111111111H5102424819O           0112104              52-0883107 1701831904                       
+INS041007990821     00000299449910000004244400000225369120000001169289    AD07      BL1            A                                                  
+INS051007990821                                                                                        010                                            
+INS010011008085217     CAROL A SWIGART               6297  W SHORE DR                                            KENT                 OH442400000     
+INS021008085217                                   6297 West Shore Drive                                                                               
+INS031008085217     Kent                 OH4424000003306780627H0000000000O           0111104              48-1273715 123836731                        
+INS041008085217     00000097680750000003343600000104274120000000668241    AD07      BL1            A                                                  
+INS051008085217                                                                                        010                                            
+INS010011008133561     WAYNE ALAN                    6010    WESTCHESTER PARK DR   302                           COLLEGE PARK         MD207400000     
+INS021008133561                                   3103 Newcastle Lane                                                                                 
+INS031008133561     Riva                 MD2114000004109568132H0000000000O           0112104              52-0883107 1702069363                       
+INS041008133561     00000131068310000002027200000119779120000000619167    AD07      BL1            A                                                  
+INS051008133561                                                                                        016                                            
+INS010011008433433     ARTHUR A JACOBO                  432  WHITEFORD AVENUE                                    LA PUENTE            CA917440000     
+INS021008433433                                   432 Whiteford Avenue                                                                                
+INS031008433433     La Puente            CA9174400001111111111H1111111111O           0108104              52-0883107 1702260816                       
+INS041008433433     00000310515620000008188500000179641120000001698654    AF05      FL1            A                                                  
+INS051008433433                                                                                        010                                            
+INS010011008500355     EARLIE EDWIN TOWE JR          6829    WESTRIDGE ROAD                                      GWYNN OAK            MD212070000     
+INS021008500355                                   6829 Westridge Road                                                                                 
+INS031008500355     Gwynn Oak            MD2120700004103369119H4103369119O           0102114              48-1273715 124373909                        
+INS041008500355     00000167331190000001879200000115407120000000365013    AD07      BL1            A                                                  
+INS051008500355                                                                                        010                                            
+INS010011008562553     CHAD H HARRISON                 7803  NEW BATTLE GROV                                     DUNDALK              MD212220000     
+INS021008562553                                   7803 New Battle Grove Rd                                                                            
+INS031008562553     Dundalk              MD2122200004103880549H4432262732O           0102114              48-1273715 124593418                        
+INS041008562553     00000277241600000003566000000209793120000000665039    AD07      BL1            A                                                  
+INS051008562553                                                                                        010                                            
+INS010011008723197     JEFF KATTNER                  532     9TH AVE                                             ANTIGO               WI544090000     
+INS021008723197                                   5612 CHURCHWAY                                                                                      
+INS031008723197     GREENDALE            WI5312900004143790187H1111111111O           0102114              48-1273715 124488866                        
+INS041008723197     00000056108220000000501400000072103120000000236138    AD07      BL1            A                                                  
+INS051008723197                                                                                        010                                            
+INS010011008727735     TADEUSZ WOJT                  9040    LAKESHORE DR                                        PLEASANT PRAIRIE     WI531580000N    
+INS021008727735                                   9040 Lakeshore Dr                                                                                   
+INS031008727735     Pleasant Prairie     WI5315800000000000000H3127207775O           0112094              48-1273715 124533489                        
+INS041008727735     00000942000000000052202500000549500120000014744819    B650      FL1            A                                                  
+INS051008727735     VERIFY OCCUPANCY                                                                                                                  
+INS010011008820381     ORAL OGILVIE SMITH              2614SWFAIR ISLE RD                                        PORT ST LUCIE        FL349870000     
+INS021008820381                                   2614 SW FAIR ISLE RD                                                                                
+INS031008820381     PORT SAINT LUCIE     FL3498700001111111111H0000000000O           0111094              52-0883107 1702663686                       
+INS041008820381     00000236241500000015462300000213624120000004104486    AD07      BL1            A                                                  
+INS051008820381                                                                                        010                                            
+INS010011008857441     EFRAIN R REYNOSO                3829  PIPPIN STREET                                       CHICAGO              IL606520000     
+INS021008857441                                   3829 W Pippen                                                                                       
+INS031008857441     Chicago              IL6065200007086560654H9999999999O           0101104              52-0904874 332464539                        
+INS041008857441     00000172802110000007783900000144698120000002367083    AF05      FL1            A                                                  
+INS051008857441                                                                                        010                                            
+INS010011008882753     YAULDE JOSEPH                    125  MIAMI GARDENS ROAD                                  HOLLYWOOD            FL330230000     
+INS021008882753                                   125 MIAMI GARDENS RD                                                                                
+INS031008882753     Hollywood            FL3302300000000000000H9543949838O           0105104              48-1273715 124864387                        
+INS041008882753     00000184590550000004507100000112916120000001355852    AF05      FL1            A                                                  
+INS051008882753                                                                                        010                                            
+INS010011009063551     BETSY PRIFTAKIS               401     STEWART AVE                                         GARDEN CITY          NY115300000     
+INS021009063551                                   401 Stewart Ave                                                                                     
+INS031009063551     Garden City          NY1153000005167421286H1111111111O           0108104              48-1273715 124488931                        
+INS041009063551     00001248289580000028609400001129884120000010455050    AF05      FL1            A                                                  
+INS051009063551                                                                                        010                                            
+INS010011009299791     MONTE C SY                    7801    KENSINGTON MANOR LN                                 WAKE FOREST          NC275870000     
+INS021009299791                                   7801 KENSINGTON MANOR LANE                                                                          
+INS031009299791     WAKE FOREST          NC2758700009195621614H2524684490O           0101114              48-1273715 125525841                        
+INS041009299791     00000418164450000011874500000191165120000000887237    AD07      BL1            A                                                  
+INS051009299791                                                                                        010                                            
+INS010011009299965     DENNIS L KOCHERHANS           1628  N TWIN OAKS VALLEY RD                                 SAN MARCOS           CA920690000     
+INS021009299965     ALICE KOCHERHANS              1628 N TWIN OAKS VALLEY ROAD                                                                        
+INS031009299965     SAN MARCOS           CA9206900007607360254H7603103618O           0102114              48-1273715 124848194                        
+INS041009299965     00000422537810000007218000000271241120000000885903    AD07      BL1            A                                                  
+INS051009299965                                                                                        010                                            
+INS010011009325893     DAVID MICHAEL HAPGOOD            122  BASIL ST                                            ENCINITAS            CA920240000     
+INS021009325893                                   1742 RUTHLOR RD                                                                                     
+INS031009325893     CARDIFF              CA9200700001111111111H1111111111O           0102114              48-1273715 125392718                        
+INS041009325893     00000938018910000002204300000434384120000001325195    AD07      BL1            A                                                  
+INS051009325893                                                                                        010                                            
+INS010011009508191     DONNA SPADAFINO-RADELJIC      61      WAYNE AVE                                           SUFFERN              NY109010000     
+INS021009508191                                   61 WAYNE AVE.                                                                                       
+INS031009508191     SUFFERN              NY1090100008453574111H1111111111O           0106104              52-0883107 1703705193                       
+INS041009508191     00000239013930000003291000000223199120000002488099    AF05      FL1            A                                                  
+INS051009508191                                                                                        010                                            
+INS010011009686005     J RICARDO MARTIN              161   W CHAPARRAL DR                                        BLYTHE               CA922250000     
+INS021009686005                                   161 West Chaparral Drive                                                                            
+INS031009686005     Blythe               CA9222500007602179966H7602179966O           0102114              00-0000000 125995002                        
+INS041009686005     00000155834430000001549700000068635120000000221402    AD07      BL1            A                                                  
+INS051009686005                                                                                        010                                            
+INS010011009756931     DONATO DESTEFANO JR JR        11      ARBOR CT                                            YARDVILLE            NJ086200000     
+INS021009756931                                   11 Arbor Court                                                                                      
+INS031009756931     YARDVILLE            NJ0862000006092910424H0000000000O           0110104              00-0000000 125949647                        
+INS041009756931     00000217260240000001991400000126273120000000903825    AF05      FL1            A                                                  
+INS051009756931                                                                                        010                                            
+INS010011009864065     DIANA GARCIA                  209   W WORKMAN ST                                          COVINA               CA917230000     
+INS021009864065                                   209 W WORKMAN STREET                                                                                
+INS031009864065     Covina               CA9172300006263391509H0000000000O           0107104              00-0000000 126042592                        
+INS041009864065     00000415447230000014730200000376739120000003914692    AF05      FL1            A                                                  
+INS051009864065                                                                                        010                                            
+INS010011009915149     PAUL STOENESCU                26391   MIMOSA LN                                           MISSION VIEJO        CA926910000     
+INS021009915149                                   26391 Mimosa Ln                                                                                     
+INS031009915149     Mission Viejo        CA9269100009492159095H8779253634O           0110104              00-0000000 126266692                        
+INS041009915149     00000610893550000006938900000221046120000001616711    AE02      AL1            A                                                  
+INS051009915149     CHANGED TYPE P: TO AN A NO CONTACT INSPECTION                                      010                                            
+INS010011009919869     JOSEPH F SERAMONE             121     TROTTER DR W                                        WILMINGTON           DE198100000     
+INS021009919869                                   121 TROTTER DRIVE WEST                                                                              
+INS031009919869      WILMINGTON          DE1981000001111111111H3027772230O           0102114              00-0000000 126062388                        
+INS041009919869     00000771687640000002818200000349680120000001077222    AD07      BL1            A                                                  
+INS051009919869                                                                                        010                                            
+INS010011009922129     THOMAS R HINTZ                2676    BITTERNUT CIR                                       SIMI VALLEY          CA930650000     
+INS021009922129     MIRIAM C HINTZ                2676 Bitternut Circle                                                                               
+INS031009922129     Simi Valley          CA9306500008055841454H1111111111O           0112094              00-0000000 126340970                        
+INS041009922129     00000546363000000016640300000184893120000004164878    AF05      FL1            A                                                  
+INS051009922129                                                                                        010                                            
+INS010011009928233     TERESA CAMPOS                 209     SUNVIEW AVE                                         PALM SPRINGS         CA922620000     
+INS021009928233                                   209 Sunview Avenue                                                                                  
+INS031009928233     Palm Springs         CA9226200007604593518H1111111111O           010211350497920567   52-0883107 1704050270                       
+INS041009928233     00000402973230000001845600000154906120000000483174    AD07      BL1            A                                                  
+INS051009928233                                                                                        010                                            
+INS010011009933233     GENE GRAHAM                   619   S 5TH ST                                              ALLENTOWN            PA181030000     
+INS021009933233     CLAUDETTE GRAHAM              619 S 5th St                                                                                        
+INS031009933233     Allentown            PA1810300001111111111H1111111111O           0101114              00-0000000 126103656                        
+INS041009933233     00000082692680000001641600000054726120000000235320    AD07      BL1            A                                                  
+INS051009933233                                                                                        021                                            
+INS010011010011201     DAVID SANDOZ                  1300  S 3RD AVE                                             KELSO                WA986260000     
+INS021010011201                                   1300 s 3rd avenue                                                                                   
+INS031010011201     Kelso                WA9862600003605781237H9999999999O           0112104              48-1273715 0126539855                       
+INS041010011201     00000121550000000004178400000086549120000000474529    AD07      BL1            A                                                  
+INS051010011201                                                                                        010                                            
+INS010011010044855     IVOR ANTHONY HALL             12      GREENWOOD DR                                        NEWBURGH             NY125500000     
+INS021010044855                                   12 Greenwood Drive                                                                                  
+INS031010044855     Newburgh             NY1255000008457874628H9173745354O           0112103811R713431521 00-0000000 126025705                        
+INS041010044855     00000444884880000006910400000281380120000001476004    AD07      BL1            A                                                  
+INS051010044855                                                                                        010                                            
+INS010011010130555     JASON PHILLIPS                1300    GRIZZLE RD                                          DAWSONVILLE          GA305340000     
+INS021010130555                                   1300 Grizzle Road                                                                                   
+INS031010130555     Dawsonville          GA3053400007062161248H1111111111O           0102114              48-1273715 0126251058                       
+INS041010130555     00000181194160000000912400000115290120000000354994    AD07      BL1            A                                                  
+INS051010130555                                                                                        010                                            
+INS010011010308029     JOHN ARVANITOPOULOS           14940   6TH AVE                                             WHITESTONE           NY113570000     
+INS021010308029                                   149-40 6th Avenue                                                                                   
+INS031010308029     Whitestone           NY1135700007187463078H1111111111O           0101114              48-1273715 0127101272                       
+INS041010308029     00000550192130000002119100000290763120000001184243    AD07      BL1            A                                                  
+INS051010308029                                                                                        010                                            
+INS010011010389847     ONIK KARANDZHANYAN            2756    KENNETH RD                                          BURBANK              CA915040000     
+INS021010389847                                   2756 N KENNETH RD                                                                                   
+INS031010389847     BURBANK              CA9150400001111111111H8184271548O           0108094              48-1273715 0127286254                       
+INS041010389847     00000627224390000021561000000338370120000007427957    AF05      FL1            A                                                  
+INS051010389847                                                                                        010                                            
+INS010011010395141     VAL SADIGIANIS                9       SPICE DR                                            TOWNSHIP OF WASHINGTONJ076760000     
+INS021010395141                                   9 SPICE DRIVE                                                                                       
+INS031010395141     WASHINGTON TWP       NJ0767600002014100775H2014100775O           0101114              00-0000000 127338285                        
+INS041010395141     00000514602550000002948200000416679120000001696198    AD07      BL1            A                                                  
+INS051010395141                                                                                        010                                            
+INS010011010398657     HEATHER C RICH                16864 SW1ST PL                                              PEMBROKE PINES       FL330270000     
+INS021010398657                                   16864 Sw 1 Place                                                                                    
+INS031010398657     Pembroke Pines       FL3302700001111111111H9547352641O           0105084              52-0883107 1704838111                       
+INS041010398657     00000254678020000014496000000225056120000008246976LUSIAB01      EL1            A                                                  
+INS051010398657     ADDED U TO MAN CODE INCLUSION                                                      021                                            
+INS010011010425781     ANGELA JAMISON                1212  S BOULDER ST            A                             GILBERT              AZ852960000     
+INS021010425781                                   A                                                                                                   
+INS031010425781     Gilbert              AZ8529600001111111111H1111111111O           0102114              52-0904874 486781658                        
+INS041010425781     00000178800000000001424700000110085120000000344502    AD07      BL1            A                                                  
+INS051010425781                                                                                        010                                            
+INS010011010545737     PABLO RAMIREZ                 6551    TUJUNGA AVE                                         NORTH HOLLYWOOD      CA916060000     
+INS021010545737                                   6551 TUJUNGA AVE                                                                                    
+INS031010545737     NORTH HOLLYWOOD      CA9160600008187521759H6619461155O           0104104              52-0883107 1705160660                       
+INS041010545737     00000409999240000008791600000246486120000003292234    AF05      FL1            A                                                  
+INS051010545737                                                                                        010                                            
+INS010011010581559     CLARENCE MICHAEL CRUMPTON     12230   GUINEVERE RD                                        GLENN DALE           MD207690000     
+INS021010581559     CATHY REBECCA CRUMPTON        12230 GUINEVERE ROAD                                                                                
+INS031010581559     GLENN DALE           MD2076900001111111111H3014642018O           0101114              52-0883107 1705400109                       
+INS041010581559     00000395235660000003902200000233199120000000971818    AD07      BL1            A                                                  
+INS051010581559                                                                                        010                                            
+INS010011010596839     YADIRIS PEREZ                 2925  W 80 ST                 207                           HIALEAH              FL330180000     
+INS021010596839                                   2925 W 80 St Apt 207                                                                                
+INS031010596839     Hialeah              FL3301800001111111111H1111111111O           0112104              52-0883107 1705398618                       
+INS041010596839     00000124378150000004077000000081537120000000448455    AD07      BL1            A                                                  
+INS051010596839                                                                                        016                                            
+INS010011010603155     ANTOINETTE R CASON            746   E 84TH PL                                             LOS ANGELES          CA900010000     
+INS021010603155                                   746 E 84th Pl                                                                                       
+INS031010603155     Los Angeles          CA9000100003238333529H3238333529O           010510300479149250   52-0883107 1705400253                       
+INS041010603155     00000440973020000015986600000286481120000003467417    AF05      FL1            A                                                  
+INS051010603155                                                                                        010                                            
+INS010011010616553     ALEX G VELASQUEZ              4154    OAKLAND AVE S                                       MINNEAPOLIS          MN554070000     
+INS021010616553                                   4154 Oakland Ave S                                                                                  
+INS031010616553     Minneapolis          MN5540700006128211077H1111111111O           010810300325579367   52-0883107 1705754147                       
+INS041010616553     00000140726030000002704500000137806120000001321367LUSIAB01      EL1            A                                                  
+INS051010616553     ADDED U TO MAN CODE INCLUSION                                                      010                                            
+INS010011010688131     ANGELO G DE LOS REYES         8415    WEATHER WOOD ST                                     CHINO                CA917080000     
+INS021010688131     MELISSA M DE LOS REYES        8415 WEATHERWOOD STREET                                                                             
+INS031010688131     CHINO                CA9170800009093459585H9094503978O           011210300498996818   52-0883107 1705617801                       
+INS041010688131     00000415836100000003316400000266714120000001366734    AD07      BL1            A                                                  
+INS051010688131                                                                                        016                                            
+INS010011010689931     NIKKIS HUNT                   800   W 104TH ST                                            LOS ANGELES          CA900440000     
+INS021010689931                                   800 W 104th St                                                                                      
+INS031010689931     Los Angeles          CA9004400001111111111H1111111111O           0102114              52-0883107 1705620537                       
+INS041010689931     00000215704180000000996000000132491120000000407433    AD07      BL1            A                                                  
+INS051010689931                                                                                        010                                            
+INS010011010795241     ANDREY E COCKRELL             6217  N 22ND DR                                             PHOENIX              AZ850150000     
+INS021010795241                                   6217 N 22nd Drive                                                                                   
+INS031010795241     Phoenix              AZ8501500006025614751H6022424418O           0102114              52-0883107 1705921240                       
+INS041010795241     00000195309570000001269600000094631120000000296589    AD07      BL1            A                                                  
+INS051010795241                                                                                        021                                            
+INS010011010886131     MATTHEW T HILL                  6559  LAKE MEADOWS DR                                     HIXSON               TN373430000     
+INS021010886131                                   6319 SEA HAVEN DR                                                                                   
+INS031010886131     HIXSON               TN3734300005555555555H5555555555O           010211300325881240   52-0883107 1705966746                       
+INS041010886131     00000090314350000002296900000095441120000000309292    AD04      DL1            A                                                  
+INS051010886131                                                                                        010                                            
+INS010011010918561     CHAD S SATTER                 12339   FALLING BRANCH COURT                                RIVERSIDE            CA925030000     
+INS021010918561                                   12339 Falling Branch Court                                                                          
+INS031010918561     Riverside            CA9250300009517855948H1111111111O           0108104              52-0883107 1706144629                       
+INS041010918561     00000389990630000010948900000288447120000002573456    AD07      BL1            A                                                  
+INS051010918561                                                                                        010                                            
+INS010011011106489     BILLY RAY STEPHENS              4852E ASCOT DR                                            QUEEN CREEK          AZ852400000     
+INS021011106489     EVELYN STEPHENS               4888 E ASCOT DR                                                                                     
+INS031011106489     QUEEN CREEK          AZ8524200005555555555H5555555555O           0106094              48-1273715 0129003143                       
+INS041011106489     00000367773720000031722500000269822120000006533704    AE02      AL1            A                                                  
+INS051011106489     CHANGED TYPE P: TO AN A NO CONTACT INSPECTION                                      010                                            
+INS010011011297395     RAMON RODRIGUEZ               27852   POST OAK PLACE                                      MURRIETA             CA925620000     
+INS021011297395     ALMA R RODRIGUEZ              27852 POST OAK PL                                                                                   
+INS031011297395     MURRIETA             CA9256200009516007305H9515674943O           010810300326428211   52-0883107 1707726738                       
+INS041011297395     00000287630150000007349600000307819120000002828311    AF05      FL1            A                                                  
+INS051011297395                                                                                        010                                            
+INS010013000993349     DARRIN A ATKINSON             2331    SHADY LANE                                          YUBA CITY            CA959910000     
+INS023000993349                                   2331 SHADY LANE                                                                                     
+INS033000993349     YUBA CITY            CA9599100001111111111H1111111111O           010111303399116339   48-1273715 0120371360                       
+INS043000993349     00000253567760000003105000000161873120000000678542    AD07      BL1            A                                                  
+INS053000993349                                                                                        010                                            
+INS010013001317639     RICHARD W ALLEN                 9427  GENTLE CIRCLE                                       MONTGOMERY VILLAGE   MD208860886     
+INS023001317639     ROSALENE M ALLEN              9427 GENTLE CIR                                                                                     
+INS033001317639     MONTGOMERY VILLAGE   MD2088600003019901548H0000000000O           0101114              48-1273715 0121727657                       
+INS043001317639     00000214146140000003636600000124064120000000526758    AD07      BL1            A                                                  
+INS053001317639                                                                                        010                                            
+INS010013001419195     SEAN L BARAN                    2094  MCKINLEY AVE                                        LAKEWOOD             OH441070000     
+INS023001419195                                   1510 LARCHMONT AVE                                                                                  
+INS033001419195     LAKEWOOD             OH4410754534407011236H9999999999O           010211303399119239   48-1273715 0121735315                       
+INS043001419195     00000185617420000000600000000108650120000000332941    AD07      BL1            A                                                  
+INS053001419195                                                                                        012                                            
+INS010013001681257     TIMOTHY W REINMUTH              1522  ZAIGER DR                                           COLORADO SPRINGS     CO809160000     
+INS023001681257                                   1522 ZAIGER DR                                                                                      
+INS033001681257     COLORADO SPRINGS     CO8091500001111111111H1111111111O           0101104              48-1273715 0122414961                       
+INS043001681257     00000139200000000003654000000092860120000000224390LUSIAB01      EL1            A                                                  
+INS053001681257     ADDED U TO MAN CODE INCLUSION                                                      010                                            
+INS010013001753585     SYLVIA CONTRERAS               20714  DAPPLED RIDGE WAY                                   HUMBLE               TX773380000     
+INS023001753585                                   20714 DAPPLED RIDGE WAY                                                                             
+INS033001753585     HUMBLE               TX7733800008327421249H8327481249O           0102114              48-1273715 0122423648                       
+INS043001753585     00000131527210000004576500000149557120000000508944    AD07      BL1            A                                                  
+INS053001753585                                                                                        010                                            
+INS010013001938491     KATHLEEN M CLAVERE               126  LOUGHRIDGE WAY                                      FOLSOM               CA956300000     
+INS023001938491     CHRISTIAN J CLAVERE           126 LOUGHRIDGE WAY                                                                                  
+INS033001938491     FOLSOM               CA9563000009163518343H9163518343O           0105094              00-0000000 6017910                          
+INS043001938491     00000549937670000017310900000196501120000005238605    AE02      AL1            A                                                  
+INS053001938491     CHANGED TYPE P: TO AN A NO CONTACT INSPECTION                                      010                                            
+INS010013001946155     KELLI L EAGANS                  2370  OLIVE ST                                            DENVER               CO802070000     
+INS023001946155                                   PO BOX 140916                                                                                       
+INS033001946155     EDGEWATER            CO8021400003035211082H0000000000O           0112104              00-0000000 6016231                          
+INS043001946155     00000133349470000012065400000119866120000000719984    AD07      BL1            A                                                  
+INS053001946155                                                                                        010                                            
+INS010013001965239     KEVIN D FARMER                   104  COTTON DR                                           STOCKBRIDGE          GA302810000     
+INS023001965239                                   104 COTTON DR                                                                                       
+INS033001965239     STOCKBRIDGE          GA3028100004046420738H4046420738O           0112104              00-0000000 6019941                          
+INS043001965239     00000208256260000002767300000193655120000000988368    AD07      BL1            A                                                  
+INS053001965239                                                                                        010                                            
+INS010013002083131     STUERT LADA                      711W FOURTH STREET                                       MONROE               MI481610000     
+INS023002083131                                   711 W 4TH ST                                                                                        
+INS033002083131     MONROE               MI4816100001111111111H7342411680O           0105104              52-0883107 1702457477                       
+INS043002083131     00000102349580000001519500000086511120000001053327    AF05      FL1            A                                                  
+INS053002083131                                                                                        010                                            
+INS010013002264897     TACO MONIK GALLOWAY BARNES      1736  BRADDISH AVENUE                                     BALTIMORE            MD212160000     
+INS023002264897                                   12607 PRINCES CHOICE DR                                                                             
+INS033002264897     BOWIE                MD2072000003013529654H0000000000O           0101114              52-0883107 1702864469                       
+INS043002264897     00000059624430000001589200000052412120000000225540    AD07      BL1            A                                                  
+INS053002264897                                                                                        010                                            
+INS010013002471567     CURTIS L COSTON                   21  CORWIN CIR                                          HAMPTON              VA236660000     
+INS023002471567     ADRIENNE P COSTON             21 CORWIN CIR                                                                                       
+INS033002471567     HAMPTON              VA2366600007572772222H7578652522O           0102114              52-0883107 1704319974                       
+INS043002471567     00000119498320000000684600000082708120000000264534    AD07      BL1            A                                                  
+INS053002471567                                                                                        010                                            
+INS010013002507675     SHAWN G PERRY                   7931  MANDAN ROAD               103                       GREENBELT            MD207700000     
+INS023002507675                                   5406 TILDEN RD                                                                                      
+INS033002507675     BLADENSBURG          MD2071000002405820118H2023691270O           0102114              52-0883107 1703326398                       
+INS043002507675     00000176982380000016967000000143511120000000600203    AD07      BL1            A                                                  
+INS053002507675                                                                                        016                                            
+INS010013002530065     LANCE LAWSON                     600  CAROLINE DR                                         NORRISTOWN           PA194010000     
+INS023002530065                                   600 CAROLINE DR                                                                                     
+INS033002530065     NORRISTOWN           PA1940100000000000000H4847448309O           0101114              52-0883107 1703356257                       
+INS043002530065     00000146495870000001347600000093579120000000387792    AD07      BL1            A                                                  
+INS053002530065                                                                                        010                                            
+INS010013002614265     JASON O BRIEN                   2933  HONEYMEAD RD                                        DOWNINGTOWN          PA193350000     
+INS023002614265                                   2933 HONEYMEAD RD                                                                                   
+INS033002614265     DOWNIGTON            PA1933500006103843842H6103843842O           0102104              00-0000000 6096677                          
+INS043002614265     00000359740140000019096000000301009120000004706095LUSIAB01      EL1            A                                                  
+INS053002614265     ADDED U TO MAN CODE INCLUSION                                                      010                                            
+INS010013002618621     RODERICK H HOPPNER             24091  AZALEA STREET                                       WILLITS              CA954900000     
+INS023002618621                                   24091 AZALEA ST                                                                                     
+INS033002618621     WILLITS              CA9549000000000000000H7074591393O           0110103311703656034  00-0000000 6099936                          
+INS043002618621     00000352948150000004911500000234997120000001694094    AD07      BL1            A                                                  
+INS053002618621                                                                                        010                                            
+INS010013002676637     TAI A BLOOMER                    598  SWANTON ROAD                                        DAVENPORT            CA950170000     
+INS023002676637                                   PO BOX 334                                                                                          
+INS033002676637     DAVENPORT            CA9501700008312342439H0000000000O           0111104              00-0000000 6104251                          
+INS043002676637     00000576995960000013047600000224011120000001474542    AD07      BL1            A                                                  
+INS053002676637                                                                                        010                                            
+INS010013002680761     JIM NGO NGUYEN                  6814  WEST CHATFIELD PLACE                                LITTLETON            CO801280000     
+INS023002680761                                   6814 W CHATFIELD PL                                                                                 
+INS033002680761     LITTLETON            CO8012800001111111111H1111111111O           0102114              00-0000000 6102881                          
+INS043002680761     00000204818520000000000000000105095120000000315285    AD07      BL1            A                                                  
+INS053002680761                                                                                        010                                            
+INS010013002685463     RENEE JONES                    11725  DESERT GLEN STREET                                  ADELANTO             CA923010000     
+INS023002685463                                   11725 DESERT GLEN STR                                                                               
+INS033002685463     ADELANTO             CA9230100001111111111H1111111111O           0108094              48-1273715 006111204                        
+INS043002685463     00000281305230000010296600000129482120000002932520    AF05      FL1            A                                                  
+INS053002685463                                                                                        010                                            
+INS010013002730947     ROLANDO G VALDEZOTTO            1208  STIRLING DRIVE                                      RODEO                CA945720000     
+INS023002730947     NYMPHA A VALDEZOTTO           1208 STIRLING DR                                                                                    
+INS033002730947     RODEO                CA9457200005102458447H1111111111O           0110104              52-0883107 1704095149                       
+INS043002730947     00000395250000000006052200000245159120000001776635    AF05      FL1            A                                                  
+INS053002730947                                                                                        010                                            
+INS010013002756405     TINA M COURTWAY                    9  PALERMO LANE                                        PALM COAST           FL321640000     
+INS023002756405                                   9 PALERMO LN                                                                                        
+INS033002756405     PALM COAST           FL3216400000000000000H1111111111O           0102114              00-0000000 6121212                          
+INS043002756405     00000192031450000010000000000098598120000000155755    AD07      BL1            A                                                  
+INS053002756405                                                                                        010                                            
+INS010013002826919     MIGUEL HERRERA                  7537  BELVUE LN                                           JENISON              MI494280000     
+INS023002826919                                   7537 BELVUE LN                                                                                      
+INS033002826919     JENISON              MI4942800001111111111H6165545618O           0108104              52-0883107 1704320362                       
+INS043002826919     00000114396450000003203000000096159120000000877331    AF05      FL1            A                                                  
+INS053002826919                                                                                        010                                            
+INS010013002840217     BEN NEWBERRY                    3737E SHAEFFER AVENUE                                     KINGMAN              AZ864090000     
+INS023002840217     BRENDA NEWBERRY               3737 E SHAEFFER AVE                                                                                 
+INS033002840217     KINGMAN              AZ8640900001111111111H9283773549O           0111103011109755057  52-0883107 1704583119                       
+INS043002840217     00000091117200000002101400000076945120000000478072    AD07      BL1            A                                                  
+INS053002840217                                                                                        010                                            
+INS010013003040205     ALMA R VARGAS                   1229  BODEGA BAY DR                                       CHULA VISTA          CA919150000     
+INS023003040205                                   1229 BODEGA BAY DR                                                                                  
+INS033003040205     CHULA VISTA          CA9191500006196564995H6194414963O           0101114              00-0000000 0006153392                       
+INS043003040205     00000589055720000003041200000176717120000000737280LUSIAB01      EL1            A                                                  
+INS053003040205     ADDED U TO MAN CODE INCLUSION                                                      010                                            
+INS010013003054305     MARIA C MALDONADO                524N MARYLAND AVE                                        GLENDALE             CA912060000     
+INS023003054305                                   524 N MARYLAND AVE APT 6                                                                            
+INS033003054305     GLENDALE             CA9120600008185008488H8189195916O           0110104              00-0000000 0006154615                       
+INS043003054305     00000317774340000007532000000179334120000001330658    AF05      FL1            A                                                  
+INS053003054305                                                                                        016                                            
+INS010013003069717     KIET A NGUYEN                   2665  WARBURTON AVE                                       SANTA CLARA          CA950510000     
+INS023003069717     LOAN K NGUYEN                 2665 WARBURTON AVE                                                                                  
+INS033003069717     SANTA CLARA          CA9505100004082965349H4086673832O           0101114              00-0000000 0006155939                       
+INS043003069717     00000560334390000005013400000214622120000000908622    AD07      BL1            A                                                  
+INS053003069717                                                                                        010                                            
+TRL00126-4568855   000004000058000000000001000008000022000000000000000000000000000000000000093000000093                                               
